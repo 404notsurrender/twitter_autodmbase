@@ -28,7 +28,7 @@ Of course this bot still not perfect. You can customize by your own
 # How to use this app
 ## Windows
 -> make sure you already have python installed <br>
--> git clone https://github.com/ydhnwb/autodm_base.git <br>
+-> git clone https://github.com/404notsurrender/twitter_autodmbase <br>
 -> change all the API KEY in constants.py with your own <br>
 -> open cmd, go to this project's directory <br>
 -> activate Scripts\activate <br>
