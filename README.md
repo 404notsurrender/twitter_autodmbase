@@ -38,7 +38,7 @@ run app.py using syntax: python app.py <br>
 
 ## Linux
 -> make sure you already have python installed <br>
--> git clone https://github.com/ydhnwb/autodm_base.git <br>
+-> git clone https://github.com/404notsurrender/twitter_autodmbase <br>
 -> change all the API KEY in constants.py with your own <br>
 -> open terminal, go to this project's directory <br>
 -> source env_linux/bin/activate <br>
